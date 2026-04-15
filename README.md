@@ -1,39 +1,161 @@
-👨‍💻 Network Engineer | Turning chaos into connectivity
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vijay Katariya | Network Engineer</title>
 
-💡 I don’t just solve network problems… I create them first for hands-on learning 😅
-🔧 Currently building: VulnScan — because clicking manually is too mainstream
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
 
-🌐 Experience:
+<style>
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    background: #0f172a;
+    color: #e2e8f0;
+}
 
-* FortiGate 🔥 (policies, VPNs, debugging why nothing works at 2AM)
-* Cisco Meraki ☁️ (Dashboard magician, making green lights appear)
-* Network Troubleshooting 🛠️ (ping, trace, pray, repeat)
-* Real-world issue handling (a.k.a. “it was working yesterday” specialist)
+.container {
+    text-align: center;
+    padding: 50px 20px;
+}
 
-⚙️ What I do:
+h1 {
+    font-size: 3rem;
+    color: #38bdf8;
+    animation: fadeIn 2s ease-in-out;
+}
 
-* Break configs → Fix configs → Automate configs
-* Debug packet flows like a detective 🕵️‍♂️
-* Solve latency, jitter & mysterious “network ghosts” 👻
-* Make networks stable… until I test something new
+h2 {
+    font-weight: 300;
+    margin-bottom: 30px;
+    animation: fadeIn 3s ease-in-out;
+}
 
-🐛 Fun Facts:
+.card {
+    background: #1e293b;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 15px;
+    max-width: 800px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.5);
+    animation: slideUp 1.5s ease-in-out;
+}
 
-* 90% of issues are “small changes”
-* Remaining 10% are also my changes
-* If it works → I leave it
-* If it breaks → I say “interesting…” and open logs
+.badge {
+    display: inline-block;
+    padding: 8px 15px;
+    margin: 5px;
+    border-radius: 20px;
+    background: #38bdf8;
+    color: black;
+    font-size: 0.9rem;
+}
 
-🚀 Currently Learning:
+.typing {
+    color: #22c55e;
+    font-size: 1.2rem;
+    height: 30px;
+}
 
-* Cybersecurity & Offensive Testing 😈
-* Automation & scripting (so I can be lazy efficiently)
-* Vulnerability scanning & exploitation
+@keyframes fadeIn {
+    from {opacity: 0;}
+    to {opacity: 1;}
+}
 
-📈 Goal:
-Build practical tools, break things safely, and understand networks deeper than the logs
+@keyframes slideUp {
+    from {transform: translateY(50px); opacity: 0;}
+    to {transform: translateY(0); opacity: 1;}
+}
 
-<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://linkedin.com/in/vijaykatariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijaykatariya" height="30" width="40" /></a> </p> <h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=labpnet33&show_icons=true&locale=en&layout=compact" alt="labpnet33" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=labpnet33&show_icons=true&locale=en" alt="labpnet33" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=labpnet33&" alt="labpnet33" /></p>
+.footer {
+    margin-top: 40px;
+    font-size: 0.9rem;
+    color: #94a3b8;
+}
 
-⚠️ Disclaimer:
-I fix problems… sometimes after creating them intentionally for learning purposes 😄
+</style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Hi 👋, I'm Vijay Katariya</h1>
+    <h2>Network Engineer | Security Explorer 😈</h2>
+
+    <div class="typing" id="typing"></div>
+
+    <div class="card">
+        <h3>👨‍💻 About Me</h3>
+        <p>I create problems → solve them → call it experience 😄</p>
+        <p>Breaking configs just to prove I can fix them 💥</p>
+        <p>Debugging networks, packets & sometimes my own mistakes 🛠️</p>
+    </div>
+
+    <div class="card">
+        <h3>🚀 Working On</h3>
+        <p>🔧 VulnScan (because manual testing is boring 😅)</p>
+        <p>🌱 Learning Server Architecture & Security</p>
+    </div>
+
+    <div class="card">
+        <h3>🌐 Experience</h3>
+        <div class="badge">FortiGate 🔥</div>
+        <div class="badge">Cisco Meraki ☁️</div>
+        <div class="badge">Troubleshooting 🛠️</div>
+    </div>
+
+    <div class="card">
+        <h3>🐛 Reality Check</h3>
+        <p>90% issues = small changes</p>
+        <p>10% issues = also my changes 💀</p>
+    </div>
+
+    <div class="card">
+        <h3>📫 Contact</h3>
+        <p>Email: labpnet33@gmail.com</p>
+        <p>GitHub: github.com/labpnet33</p>
+    </div>
+
+    <div class="footer">
+        🚀 Create → Break → Fix → Repeat
+    </div>
+</div>
+
+<script>
+const texts = [
+    "Network Engineer",
+    "Security Learner",
+    "Building VulnScan",
+    "Breaking & Fixing Things"
+];
+
+let i = 0;
+let j = 0;
+let currentText = '';
+let isDeleting = false;
+
+function type() {
+    if (i < texts.length) {
+        if (!isDeleting && j <= texts[i].length) {
+            currentText = texts[i].substring(0, j++);
+        } else if (isDeleting && j >= 0) {
+            currentText = texts[i].substring(0, j--);
+        }
+
+        document.getElementById("typing").innerHTML = currentText;
+
+        if (j == texts[i].length) isDeleting = true;
+        if (j == 0 && isDeleting) {
+            isDeleting = false;
+            i++;
+            if (i == texts.length) i = 0;
+        }
+    }
+    setTimeout(type, isDeleting ? 50 : 100);
+}
+
+type();
+</script>
+
+</body>
+</html>
