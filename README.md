@@ -1,4 +1,5 @@
-[<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/K4vELbijSRMPmxReukfuSu/README-Github-Banner--Community-?node-id=0-1&embed-host=share" allowfullscreen></iframe>](https://www.figma.com/design/K4vELbijSRMPmxReukfuSu/README-Github-Banner--Community-?node-id=0-1&m=dev&t=oLiayUHUFkHCgXqG-1)
+<img width="956" height="491" alt="image" src="https://github.com/user-attachments/assets/b0adf41b-4ddb-4f1a-94ef-a1c714e7f5c9" />
+
 
 👨‍💻 Network Engineer | Turning chaos into connectivity
 
