@@ -1,8 +1,6 @@
 <img width="956" height="491" alt="image" src="https://github.com/user-attachments/assets/b0adf41b-4ddb-4f1a-94ef-a1c714e7f5c9" />
 
 
-👨‍💻 Network Engineer | Turning chaos into connectivity
-
 💡 I don’t just solve network problems… I create them first for hands-on learning 😅
 🔧 Currently building: VulnScan — because clicking manually is too mainstream
 
@@ -14,7 +12,6 @@
 * Real-world issue handling (a.k.a. “it was working yesterday” specialist)
 
 ⚙️ What I do:
-<img width="956" height="491" alt="image" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3M2MzFidjM0MXVkbTlkazgydXpwNnFtNGZjMDB3ZjE2YmZkZWhoOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif" />
 
 * Break configs → Fix configs → Automate configs
 * Debug packet flows like a detective 🕵️‍♂️
