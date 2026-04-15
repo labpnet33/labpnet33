@@ -14,7 +14,7 @@
 * Real-world issue handling (a.k.a. “it was working yesterday” specialist)
 
 ⚙️ What I do:
-https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3M2MzFidjM0MXVkbTlkazgydXpwNnFtNGZjMDB3ZjE2YmZkZWhoOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif
+<img width="956" height="491" alt="image" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3M2MzFidjM0MXVkbTlkazgydXpwNnFtNGZjMDB3ZjE2YmZkZWhoOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif" />
 
 * Break configs → Fix configs → Automate configs
 * Debug packet flows like a detective 🕵️‍♂️
