@@ -64,5 +64,3 @@ Build practical tools, break things safely, and understand networks deeper than 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=labpnet33&layout=compact&theme=radical&hide_border=true" height="150"/>
 </p>
 
-⚠️ Disclaimer:
-I fix problems… sometimes after creating them intentionally for learning purposes 😄
