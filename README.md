@@ -1,3 +1,5 @@
+<img width="956" height="491" alt="image" src="https://github.com/user-attachments/assets/b0adf41b-4ddb-4f1a-94ef-a1c714e7f5c9" />
+
 💡 I don’t just solve network problems… I create them first for hands-on learning 😅
 🔧 Currently building: **VulnScan** — because clicking manually is too mainstream
 🌐 Also building: **MyPnetLab** — helping aspiring network engineers learn, practice, and build real-world skills for free!
