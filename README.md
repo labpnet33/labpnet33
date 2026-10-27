@@ -1,5 +1,5 @@
 <div align="center">
-<img width="500" height="269" alt="giphy" src="https://github.com/user-attachments/assets/1eeb97e6-25d6-46e6-8ff3-5862405ded66" alt="lofi header" width="100%"/>/>
+<img width="956" height="491" alt="image" src="https://github.com/user-attachments/assets/b0adf41b-4ddb-4f1a-94ef-a1c714e7f5c9" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3500&pause=1500&color=CDB4DB&center=true&vCenter=true&width=620&lines=i+don%27t+just+solve+network+problems...;i+create+them+first+for+hands-on+learning+%F0%9F%8C%99;ping.+trace.+breathe.+repeat." alt="typing"/>
 
