@@ -1,6 +1,5 @@
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/labpnet33/labpnet33/main/assets/lofi-header.svg" alt="lofi header" width="100%"/>
+<img width="500" height="269" alt="giphy" src="https://github.com/user-attachments/assets/1eeb97e6-25d6-46e6-8ff3-5862405ded66" alt="lofi header" width="100%"/>/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3500&pause=1500&color=CDB4DB&center=true&vCenter=true&width=620&lines=i+don%27t+just+solve+network+problems...;i+create+them+first+for+hands-on+learning+%F0%9F%8C%99;ping.+trace.+breathe.+repeat." alt="typing"/>
 
