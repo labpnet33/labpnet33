@@ -10,6 +10,21 @@
 
 </div>
 
+<h3 align="center">🎬 MyPnetLab in action</h3>
+
+<p align="center">
+  <video
+    src="https://nkqsgqjprijmgmkzychf.supabase.co/storage/v1/object/public/mypnetlab/ascii-magic-1.mp4"
+    controls
+    width="85%"
+  ></video>
+</p>
+
+<p align="center">
+  <sub>learn by doing · practice networking · build confidence</sub>
+</p>
+
+
 ---
 
 ### 🌙 &nbsp;currently building
