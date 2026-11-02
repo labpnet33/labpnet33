@@ -12,8 +12,6 @@
 
 <h3 align="center">🎬 MyPnetLab in action</h3>
 
-<h3 align="center">🌙 MyPnetLab in action</h3>
-
 <p align="center">
   <img
     src="https://github.com/labpnet33/labpnet33/raw/main/ascii-magic-1.gif"
