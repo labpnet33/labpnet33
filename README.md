@@ -12,18 +12,19 @@
 
 <h3 align="center">🎬 MyPnetLab in action</h3>
 
+<h3 align="center">🌙 MyPnetLab in action</h3>
+
 <p align="center">
-  <video
-    src="https://nkqsgqjprijmgmkzychf.supabase.co/storage/v1/object/public/mypnetlab/ascii-magic-1.mp4"
-    controls
+  <img
+    src="https://github.com/labpnet33/labpnet33/raw/main/ascii-magic-1.gif"
     width="85%"
-  ></video>
+    alt="MyPnetLab hands-on networking lab demo"
+  />
 </p>
 
 <p align="center">
   <sub>learn by doing · practice networking · build confidence</sub>
 </p>
-
 
 ---
 
